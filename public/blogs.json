@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/ZzN0z1jy/mastering-react.png",
+      "title": "Mastering React Components",
+      "author_img": "https://i.ibb.co.com/0VJmsv1z/avatar-removebg-preview.png",
+      "author": "FreeCodeCamp",
+      "posted_date": "June 5, 2023",
+      "reading_time": "8min",
+      "hashtags": ["development", "react"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/k2t2qpgR/js-closures.jpg",
+      "title": "Understanding JavaScript Closures",
+      "author_img": "https://i.ibb.co.com/0VJmsv1z/avatar-removebg-preview.png",
+      "author": "FreeCodeCamp",
+      "posted_date": "July 12, 2023",
+      "reading_time": "6min",
+      "hashtags": ["javascript", "concepts"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/1t3R7GN9/css-grid.jpg",
+      "title": "Why CSS Grid Is a Game Changer",
+      "author_img": "https://i.ibb.co.com/0VJmsv1z/avatar-removebg-preview.png",
+      "author": "FreeCodeCamp",
+      "posted_date": "August 23, 2023",
+      "reading_time": "10min",
+      "hashtags": ["css", "layout"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/Gvhpgv1Q/async-defer.png",
+      "title": "Async vs Defer in HTML Explained",
+      "author_img": "https://i.ibb.co.com/0VJmsv1z/avatar-removebg-preview.png",
+      "author": "FreeCodeCamp",
+      "posted_date": "September 10, 2023",
+      "reading_time": "4min",
+      "hashtags": ["html", "performance"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co.com/gMPjzLLy/nodejs.jpg",
+      "title": "Getting Started with Node.js",
+      "author_img": "https://i.ibb.co.com/0VJmsv1z/avatar-removebg-preview.png",
+      "author": "FreeCodeCamp",
+      "posted_date": "October 3, 2023",
+      "reading_time": "7min",
+      "hashtags": ["backend", "nodejs"]
+    }
+  ]
+  
